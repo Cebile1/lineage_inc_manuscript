@@ -1,2 +1,2 @@
-# lineage_inc_manuscript
+# lineage_inc_script
 scripts for population structure manuscript
