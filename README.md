@@ -1,2 +1,2 @@
-# lineage_inc_script
-scripts for population structure manuscript
+# Lineage incidence rate ratios and linear regression scripts
+Scripts derived from https://github.com/rgladstone/GPSCs/tree/master/lo_et_al
